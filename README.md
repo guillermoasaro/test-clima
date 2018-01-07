@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/4312e9915561d4ac87b2/maintainability)](https://codeclimate.com/github/guillermoasaro/test-clima/maintainability)
+
 # test-clima README
 
 * Ruby version: `2.4.0`
